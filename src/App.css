@@ -1,12 +1,24 @@
 body{
-  background-color: rgb(103, 102, 102);
+  background-color: black;
 }
-  div{
-  margin:80px;
- 
+
+.outline {
+  margin:50px;
+  border: 2px solid white;
+  font-size: 50px;
+}
+
+h1{
+  color: white;
+  text-align: center;
 }
 button{
-  
-  padding:5px;
+  font-size: 30px;
+  padding:20px;
   margin:4px;
+}
+
+h4 {
+  color: white;
+  margin: 2px 2px;
 }
